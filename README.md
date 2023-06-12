@@ -1,7 +1,7 @@
 # 02-Challenge
 ## Acceptance Criteria Checklist
 
-GIVEN a webpage meets accessibility standards
+<p>GIVEN a webpage meets accessibility standards</p>
 WHEN I view the source code
 THEN I find semantic HTML elements
 WHEN I view the structure of the HTML elements
