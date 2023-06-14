@@ -2,9 +2,11 @@
 ## Acceptance Criteria Checklist
 
 <p>GIVEN a webpage meets accessibility standards</p>
-> Reviewed HTML tags
+Reviewed HTML tags (head, body, h1, etc) ✅
 <p>WHEN I view the source code</p>
+Source code was viewed ✅
 <p>THEN I find semantic HTML elements</p>
+
 <p>WHEN I view the structure of the HTML elements</p>
 <p>THEN I find that the elements follow a logical structure independent of styling and positioning</p>
 <p>WHEN I view the image elements</p>
