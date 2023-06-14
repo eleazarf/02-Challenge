@@ -2,7 +2,7 @@
 ## Acceptance Criteria Checklist
 
 <p>GIVEN a webpage meets accessibility standards</p>
-### Reviewed HTML tags
+> Reviewed HTML tags
 <p>WHEN I view the source code</p>
 <p>THEN I find semantic HTML elements</p>
 <p>WHEN I view the structure of the HTML elements</p>
