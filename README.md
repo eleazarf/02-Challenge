@@ -7,8 +7,8 @@ Module 1 Challenge code refactor project. Changes to code base were included reg
 ![Screenshot-02-Challenge-Develop-Eleazar](Assets/eleazarf.github.io_02-Challenge_Develop_.png)
 <br>
 
-## Link to the project <br>
-https://eleazarf.github.io/02-Challenge/Develop/index.html<br>
+## link to the project <br>
+![TEST](https://eleazarf.github.io/02-Challenge/Develop/index.html)<br>
 
 ## Technical Acceptance Criteria: 40% <br>
 Application's links all function correctly.✔️<br>
