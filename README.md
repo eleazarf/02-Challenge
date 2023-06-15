@@ -8,7 +8,7 @@ Module 1 Challenge code refactor project. Changes to code base were included reg
 <br>
 
 ## link to the project <br>
-![Refactor project Horiseon]("https://eleazarf.github.io/02-Challenge/Develop/")<br>
+https://eleazarf.github.io/02-Challenge/Develop/index.html<br>
 
 ## Technical Acceptance Criteria: 40%
 <br>
