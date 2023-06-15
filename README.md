@@ -1,13 +1,13 @@
 # Module 1 Challenge
 
-##Description:
-Module 1 Challenge code refactor project. Changes to code base were included regarding technical aceptance criteria.
+##Description:<br>
+Module 1 Challenge code refactor project. Changes to code base were included regarding technical aceptance criteria.<br>
 
-##Screenshot
-![alt text]( "Logo Title Text 1")
-
-##link to the project
-[Refactor project Horiseon]https://eleazarf.github.io/02-Challenge/
+##Screenshot<br>
+![02-Challenge-Develop-Eleazar]("https://github.com/eleazarf/02-Challenge/blob/main/Assets/eleazarf.github.io_02-Challenge_Develop_.png")
+<br>
+##link to the project<br>
+[Refactor project Horiseon]https://eleazarf.github.io/02-Challenge/<br>
 
 ##Technical Acceptance Criteria: 40%
 <br>
@@ -46,5 +46,3 @@ Repository contains a quality README file with description, screenshot, and link
 <!--Added id to link to menu EF090623-->
 ```
 <br>
-##Screenshoot
-![02-Challenge-Develop-Eleazar]https://github.com/eleazarf/02-Challenge/blob/main/Assets/eleazarf.github.io_02-Challenge_Develop_.png
