@@ -24,9 +24,11 @@ Application loads with no errors.✔️<br>
 Application GitHub URL submitted.✔️<br>
 GitHub repository that contains application code.✔️<br>
 <br>
+
 ## Application Quality: 15%<br>
 Application resembles (at least 90%) screenshots provided in challenge instructions.✔️<br>
 <br>
+
 ## Repository Quality: 13%<br>
 Repository has a unique name.✔️<br>
 Repository follows best practices for file structure and naming conventions.✔️<br>
@@ -44,6 +46,7 @@ Repository contains a quality README file with description, screenshot, and link
 * Class Selectors select all elements with that class
 ```
 <br>
+
 ### HTML changes commited<br>
 ```CSS
 * Added id to link to menu EF090623
