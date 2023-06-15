@@ -1,17 +1,25 @@
-# 02-Challenge
-## Acceptance Criteria Checklist
+# Module 1 Challenge
 
-<p>GIVEN a webpage meets accessibility standards</p>
-Reviewed HTML tags (head, body, h1, etc) ✅
-<p>WHEN I view the source code</p>
-Source code was viewed ✅
-<p>THEN I find semantic HTML elements</p>
-
-<p>WHEN I view the structure of the HTML elements</p>
-<p>THEN I find that the elements follow a logical structure independent of styling and positioning</p>
-<p>WHEN I view the image elements</p>
-<p>THEN I find accessible alt attributes</p>
-<p>WHEN I view the heading attributes</p>
-<p>THEN they fall in sequential order</p>
-<p>WHEN I view the title element</p>
-<p>THEN I find a concise, descriptive title</p>
+##Technical Acceptance Criteria: 40%
+<br>
+Satisfies all of the preceding acceptance criteria plus the following code improvements:<br>
+Application's links all function correctly.<br>
+Application's CSS selectors and properties are consolidated and organized to follow semantic structure.<br>
+Application's CSS file is properly commented.<br>
+<br>
+##Deployment: 32%<br>
+<br>
+Application deployed at live URL.<br>
+Application loads with no errors.<br>
+Application GitHub URL submitted.<br>
+GitHub repository that contains application code.<br>
+<br>
+##Application Quality: 15%
+Application resembles (at least 90%) screenshots provided in challenge instructions.<br>
+<br>
+##Repository Quality: 13%
+Repository has a unique name.<br>
+Repository follows best practices for file structure and naming conventions.<br>
+Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.<br>
+Repository contains multiple descriptive commit messages.<br>
+Repository contains a quality README file with description, screenshot, and link to deployed application.<br>
