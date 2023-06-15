@@ -7,7 +7,7 @@ Module 1 Challenge code refactor project. Changes to code base were included reg
 ![Screenshot-02-Challenge-Develop-Eleazar]("https://github.com/eleazarf/02-Challenge/blob/main/Assets/eleazarf.github.io_02-Challenge_Develop_.png")
 <br>
 ##link to the project<br>
-![Refactor project Horiseon]("https://eleazarf.github.io/02-Challenge/Index.html")<br>
+![Refactor project Horiseon]("https://eleazarf.github.io/02-Challenge/index.html")<br>
 
 ##Technical Acceptance Criteria: 40%
 <br>
@@ -42,7 +42,8 @@ Repository contains a quality README file with description, screenshot, and link
 * Class Selectors select all elements with that class
 ```
 <br>
-```html changes commited
+###HTML changes commited<br>
+```HTML
 Added id to link to menu EF090623
 ```
 <br>
