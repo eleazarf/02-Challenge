@@ -34,15 +34,17 @@ Repository contains multiple descriptive commit messages.✔️<br>
 Repository contains a quality README file with description, screenshot, and link to deployed application.✔️<br>
 <br>
 ##Code
-###style.css changes commited
+###style.css changes commited<br>
 ```CSS
 /* Universal Selector */
 /* Element Selectors select all of that element type */
 /* Element selectors a, p were relocated */
 /* Class Selectors select all elements with that class */
 ```
+<br>
 ```html changes commited
 <!--Added id to link to menu EF090623-->
 ```
+<br>
 ##Screenshoot
-![Alt text]
+![02-Challenge-Develop-Eleazar]https://github.com/eleazarf/02-Challenge/blob/main/Assets/eleazarf.github.io_02-Challenge_Develop_.png
