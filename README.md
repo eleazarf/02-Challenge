@@ -33,16 +33,16 @@ Repository follows best practices for class/id naming conventions, indentation, 
 Repository contains multiple descriptive commit messages.✔️<br>
 Repository contains a quality README file with description, screenshot, and link to deployed application.✔️<br>
 <br>
-##Code
+##Code<br>
 ###style.css changes commited<br>
 ```CSS
-/* Universal Selector */
-/* Element Selectors select all of that element type */
-/* Element selectors a, p were relocated */
-/* Class Selectors select all elements with that class */
+* Universal Selector
+* Element Selectors select all of that element type
+* Element selectors a, p were relocated
+* Class Selectors select all elements with that class
 ```
 <br>
 ```html changes commited
-<!--Added id to link to menu EF090623-->
+Added id to link to menu EF090623
 ```
 <br>
