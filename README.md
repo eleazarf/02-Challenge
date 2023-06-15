@@ -16,7 +16,6 @@ Application's CSS selectors and properties are consolidated and organized to fol
 Application's CSS file is properly commented.✔️<br>
 
 ## Deployment: 32%<br>
-<br>
 Application deployed at live URL.✔️<br>
 Application loads with no errors.✔️<br>
 Application GitHub URL submitted.✔️<br>
