@@ -23,10 +23,10 @@ Application loads with no errors.✔️<br>
 Application GitHub URL submitted.✔️<br>
 GitHub repository that contains application code.✔️<br>
 <br>
-##Application Quality: 15%
+##Application Quality: 15%<br>
 Application resembles (at least 90%) screenshots provided in challenge instructions.✔️<br>
 <br>
-##Repository Quality: 13%
+##Repository Quality: 13%<br>
 Repository has a unique name.✔️<br>
 Repository follows best practices for file structure and naming conventions.✔️<br>
 Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.✔️<br>
