@@ -10,9 +10,7 @@ Module 1 Challenge code refactor project. Changes to code base were included reg
 ## link to the project <br>
 https://eleazarf.github.io/02-Challenge/Develop/index.html<br>
 
-## Technical Acceptance Criteria: 40%
-<br>
-Satisfies all of the preceding acceptance criteria plus the following code improvements:<br>
+## Technical Acceptance Criteria: 40% <br>
 Application's links all function correctly.✔️<br>
 Application's CSS selectors and properties are consolidated and organized to follow semantic structure.✔️<br>
 Application's CSS file is properly commented.✔️<br>
