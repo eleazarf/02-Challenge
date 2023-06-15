@@ -43,7 +43,7 @@ Repository contains a quality README file with description, screenshot, and link
 ```
 <br>
 ###HTML changes commited<br>
-```HTML
+```
 * Added id to link to menu EF090623
 ```
 <br>
